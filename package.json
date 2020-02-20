@@ -1,11 +1,20 @@
 {
   "name": "hackernews-node",
   "version": "1.0.0",
+  "description": "- This is a GraphQL-Node tutorial.",
   "main": "index.js",
-  "repository": "https://github.com/Code4Blessings/hackernews-node.git",
-  "author": "Code4Blessings <robinwarden@code4blessings.com>",
-  "license": "MIT",
-  "dependencies": {
-    "graphql-yoga": "^1.18.3"
-  }
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code4Blessings/hackernews-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Code4Blessings/hackernews-node/issues"
+  },
+  "homepage": "https://github.com/Code4Blessings/hackernews-node#readme"
 }
